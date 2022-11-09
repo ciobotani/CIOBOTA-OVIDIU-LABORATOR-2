@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:CIOBOTA_OVIDIU_LABORATOR_2Context"
+    }
+  }
+}
